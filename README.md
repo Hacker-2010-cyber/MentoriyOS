@@ -1,2 +1,2 @@
-# Projects
+#MentoriyOS
 Python-приложение сделанное в виде операционной системы по типу Windows.
